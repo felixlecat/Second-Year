@@ -1,1 +1,1 @@
-Create file scanner
+Read file, then create a linked list
