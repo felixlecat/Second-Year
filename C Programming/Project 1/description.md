@@ -1,1 +1,1 @@
-Write void main() function
+Write 'void main()' function of the maze generator
