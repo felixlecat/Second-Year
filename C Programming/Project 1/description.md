@@ -1,1 +1,1 @@
-Edit main.c file
+Write void main() function
