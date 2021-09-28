@@ -1,1 +1,1 @@
-Create a covid close contact application
+Create a Covid close contact application
